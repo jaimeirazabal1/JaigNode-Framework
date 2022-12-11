@@ -18,7 +18,7 @@ run npm install
 ```
 and next
 ```
-run npm dev
+run npm run dev
 ```
 
 
