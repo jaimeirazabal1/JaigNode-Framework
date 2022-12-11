@@ -1,4 +1,4 @@
-# Project Title
+# JaigNode Community framework
 
 ## Table of Contents
 
