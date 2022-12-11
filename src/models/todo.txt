@@ -1,0 +1,1 @@
+create support with sequalize to multiple database manager
